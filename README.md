@@ -2,7 +2,7 @@
 
 # micro-reddit
 
-This is a simple application project written on ruby on rails. The project use of forms. It also tests basic CRUD implementation.
+This is a simple application project written on ruby on rails. The project tests the use of forms. It also tests basic CRUD implementation.
 
 ![index](https://user-images.githubusercontent.com/42869046/121699605-c3ff4d00-cad7-11eb-9d09-1dad867fb2e5.JPG)
 
