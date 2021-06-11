@@ -1,0 +1,7 @@
+<div class="row">
+    <%= link_to ' Back', users_path, class: "fas fa-arrow-left text-decoration-none col-4 main_cl" %>
+    <p class="col-6 fw-bolder">EDIT user</p>
+    <%= link_to '', @user, class: "fas fa-eye text-decoration-none col-2 cl_green" %>
+</div>
+
+<%= render 'form', user: @user %>
