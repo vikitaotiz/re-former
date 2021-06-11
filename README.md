@@ -23,7 +23,7 @@ This is a simple application project written on ruby on rails. The project tests
 - Clone the repository with the command: `git clone (copied link)`; like so: `git clone https://github.com/vikitaotiz/re-former.git`
 - After the clone, type in the command `cd re-former` to access the app directory on the terminal
 - Then run 'bundle install' to install all the required dependencies
-- Then run 'npm install' to avoid this error 'Webpacker::Manifest::MissingEntryError in posts#index'
+- Then run 'npm install' to avoid this error 'Webpacker::Manifest::MissingEntryError'
 - Run 'rails db:create db:migrate'
 - Run 'rails server' to spin up a development server
 - Once the server is up, open this link 'http://127.0.0.1:3000' on your browser
