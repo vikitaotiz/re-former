@@ -2,6 +2,6 @@
 <hr>
 <ul class="list-group-flush">
     <% @users.each do |user| %>
-        <li class="list-group-item"><%= user.username %> <span class="ml-5"><small><%= user.email %></small></span></li>
+        <li class="list-group-item"><%= user.username %> <span class="ml-5"><small> : <%= user.email %></small></span></li>
     <% end %>
 </ul>
