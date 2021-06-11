@@ -8,14 +8,13 @@ This is a simple application project written on ruby on rails. The project use o
 
 ![form](https://user-images.githubusercontent.com/42869046/121699638-c9f52e00-cad7-11eb-8776-6508caeedaf0.JPG)
 
-
 ## Built With
 
 - Ruby
 
 ## Live Demo
 
-[Live Demo Link](https://vikita-reddit.herokuapp.com/)
+[Live Demo Link](https://re-former.herokuapp.com/)
 
 ## Getting Started
 
