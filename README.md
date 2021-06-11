@@ -4,7 +4,10 @@
 
 This is a simple application project written on ruby on rails. The project use of forms. It also tests basic CRUD implementation.
 
-![viki-reddit](https://user-images.githubusercontent.com/42869046/120814860-f0efb500-c557-11eb-93ce-b1d63919aaff.JPG)
+![index](https://user-images.githubusercontent.com/42869046/121699605-c3ff4d00-cad7-11eb-9d09-1dad867fb2e5.JPG)
+
+![form](https://user-images.githubusercontent.com/42869046/121699638-c9f52e00-cad7-11eb-8776-6508caeedaf0.JPG)
+
 
 ## Built With
 
