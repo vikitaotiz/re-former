@@ -1,0 +1,14 @@
+<h3>Users</h3>
+<hr>
+    <% @users.each do |user| %>
+        <div class="card card-body">
+            <div class="card-title">
+                <a href="/users/<%= user.id %>">
+                    <%= user.username %>
+                </a>
+            </div>
+            <div class="card-body">
+                <%= user.email %>
+            </div>
+        </div>
+    <% end %>
