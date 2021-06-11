@@ -1,6 +1,6 @@
 class UsersController < ApplicationController
     def index
-        @users = Post.all    
+        @users = User.all    
     end
 
     def new
@@ -12,7 +12,7 @@ class UsersController < ApplicationController
        if @user.save
            redirect_to new_user_path
        else
-            render :new
+           render :new
        end 
     end
 
